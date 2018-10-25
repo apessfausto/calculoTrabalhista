@@ -16,7 +16,7 @@ class FGTSActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         //botão calcular
-        btnCalcularSeguro.setOnClickListener {
+        btnCalcular.setOnClickListener {
             val fgts =
                 ((etxSalarioBruto.text.toString().toDouble() * 0.8) * etxMesesTrabalhados.text.toString().toDouble()).toString()
             txtResultado.text = fgts

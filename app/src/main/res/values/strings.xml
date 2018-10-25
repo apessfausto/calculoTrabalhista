@@ -14,4 +14,9 @@
     <string name="calcular">CALCULAR</string>
     <string name="salarioBruto">Salário Bruto</string>
     <string name="mesesTrabalhados">Meses Trabalhados</string>
+    <string name="antiPSalario">Antepenultimo Salário</string>
+    <string name="penultimoSalario">Penultimo Salário</string>
+    <string name="ultimoSalario">Ultimo Salário</string>
+    <string name="resultado">Resultado</string>
+
 </resources>
