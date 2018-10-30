@@ -18,5 +18,8 @@
     <string name="penultimoSalario">Penultimo Salário</string>
     <string name="ultimoSalario">Ultimo Salário</string>
     <string name="resultado">Resultado</string>
+    <string name="salarioFerias">Salário</string>
+    <string name="meses">Meses Trabalhados</string>
+    <string name="faltas">Faltas Sem Atestado</string>
 
 </resources>

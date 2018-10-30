@@ -22,5 +22,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        btnFerias.setOnClickListener {
+            val intent = Intent(this, FeriasActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 }
